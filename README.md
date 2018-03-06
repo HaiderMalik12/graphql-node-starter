@@ -1,9 +1,16 @@
 ## Getting Setup
 
-Install allt the dependencies
+If you are using yarn you can install all the dependencies
+by using yarn install
 
-`yarn install`
- 
-    OR
+```
+yarn install
+```
 
-`npm install`     
+If you are using npm you can install all the dependencies
+by using npm install
+
+```
+npm install  
+```  
+  
